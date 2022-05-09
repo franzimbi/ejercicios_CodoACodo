@@ -1,0 +1,50 @@
+#nav-conferencia{
+    color: white
+}
+.nav-link{
+    color: gray
+}
+#nav-carrito{
+    color:green
+}
+.img-fluid{
+    position: relative;
+    filter:brightness(40%);
+    object-fit: none; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    width: 98%;
+    margin-left: 1%;
+    margin-bottom: 1rem;
+}
+.carousel-caption{
+    color: white;
+    font-size: 15px;
+    text-align: right;
+    margin-top: 8%;
+    margin-left: 40%;
+}
+#qso{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+#boton-comprar{
+    background-color: green;
+    border-color: green;
+}
+.header-oradores{
+    margin-top: 2%;
+    color: gray;
+    text-align: center;
+}
+.header-oradores h1{
+    color: black;
+}
+.footer-item{
+    text-align: center;
+    font-size: 90%;
+    color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-decoration: none;
+}
